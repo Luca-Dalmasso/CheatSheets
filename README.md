@@ -13,3 +13,6 @@ Some useful cheat sheets.
 
 ## Tcl
 [tclsh-notes](Tcl_basics.txt)<br>
+
+## Bash
+[bash-notes](bash.pdf)
